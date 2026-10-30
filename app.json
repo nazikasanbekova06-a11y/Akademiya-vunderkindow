@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Akademiya Vunderkindov",
+    "slug": "akademiya-vunderkindov",
+    "version": "1.0.0",
+    "sdkVersion": "58.0.0",
+    "platforms": ["ios", "android"]
+  }
+}
